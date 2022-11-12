@@ -62,7 +62,7 @@ const Hero_6 = () => {
 											</svg>
 										</span>
 										<div className="text-left">
-											<span className="block font-display text-3xl text-green">10x</span>
+											<span className="block font-display text-3xl text-green">20x</span>
 											<span className="block font-display text-sm text-jacarta-600">
 												Upload Photos
 											</span>

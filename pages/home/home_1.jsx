@@ -10,7 +10,7 @@ import Cta from '../../components/cta/cta';
 const Home_1 = () => {
 	return (
 		<>
-			<Meta title="Home 7 || Xhibiter | NFT Marketplace Next.js Template" />
+			<Meta title="Persona Exis | AI Generated Persona NFTs" />
 			<Hero_7 />
 			<Partners />
 			<Services />
