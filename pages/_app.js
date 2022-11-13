@@ -26,7 +26,7 @@ function MyApp({ Component, pageProps }) {
 
   return (
     <>
-      <Meta title="Home 1 || Xhibiter | NFT Marketplace Next.js Template" />
+      <Meta title="Persona Exis | AI Generated Persona NFTs" />
 
       <Provider store={store}>
         <ThemeProvider enableSystem={true} attribute="class">
