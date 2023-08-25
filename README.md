@@ -1,7 +1,7 @@
-# BlockShots API v1.0 (ml-web3-api)
+# Persona Exis Web3 v1.0 (persona-exis-web3)
 
 ## About
-Provides HTTP Services for Manage Life Web3 layer.
+Web3 Application of persona exis.
 
 ## 🛠 Getting Started - Installation
  
@@ -9,7 +9,7 @@ Provides HTTP Services for Manage Life Web3 layer.
 2. Install your dependencies
 
     ```
-    cd path/to/ml-web3-api
+    cd path/to/persona-exis-web3
     yarn install
     ```
 3. Fire up the server and watch files (development)
